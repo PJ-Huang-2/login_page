@@ -38,9 +38,9 @@ password: password
 <br>
 
 * node.js : ^10.15.0
-* express: ^4.17.1
+* express: ^4.18.2
 * express-handlebars: ^5.3.2
-* mongoose: ^5.12.0
+* mongoose: ^6.9.2
 * mongoDB: ^4.2.14
 
 <br>
@@ -71,4 +71,4 @@ npm run dev
 ```
 6. 出現下列訊息，表示啟動成功，可點選連結開啟網頁
 
-Server is running on http://localhost:3000
+Server is running on http://localhost:3300
